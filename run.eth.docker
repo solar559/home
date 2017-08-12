@@ -1,0 +1,1 @@
+nvidia-docker run -it anthonytatowicz/eth-cuda-miner -S eu2.ethermine.org:4444 -O c52cc06ba2451f8d82dddca82e3a8b1064a3e175
